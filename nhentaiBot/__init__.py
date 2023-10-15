@@ -1,6 +1,6 @@
 from telegram.ext import Updater
 import logging
-from nhentaiBot.helpers.constants import BOT_TOKEN
+BOT_TOKEN = "5811956762:AAGlP4ZHkTfE8X6fcKBvzwESobjWJ5thhoE"
 
 
 # Enable logging
